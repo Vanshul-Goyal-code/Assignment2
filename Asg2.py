@@ -64,7 +64,7 @@ print(" a^b : ", a ^ b)
 # Left shift both a and b with 2 bits.
 print("a<<2 : ", a << 2, "\tb<<2 :", b << 2)
 # Right shift a with 2 bits and b with 4 bits.
-print("a>>2 : ", a >> 2, "\tb>>2 :", b >> 2)
+print("a>>2 : ", a >> 2, "\tb>>2 :", b >> 4)
 
 
 ##################################################################################
