@@ -35,7 +35,7 @@ Question 3
  a|b :  58
  a^b :  50
 a<<2 :  224 	b<<2 : 40
-a>>2 :  14 	b>>2 : 2
+a>>2 :  14 	b>>4 : 0
 
 =========== RESTART: /Users/vanshulgoyal/Python/Assignment2.py/Q4.py ===========
 Question 4
